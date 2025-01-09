@@ -1,0 +1,6 @@
+@import 'bootstrap';
+@import './style';
+
+.text-aulab-2 {
+    color: red;
+}
